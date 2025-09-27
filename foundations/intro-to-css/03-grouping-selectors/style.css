@@ -1,1 +1,6 @@
 /* Add CSS Styling */
+.stinky,
+.pig {font-family:Helvetica, "Times New Roman", Sans-serif; font-size:28px;}
+.stinky {background-color: black; color: white;}
+.pig {background-color: yellow;}
+
